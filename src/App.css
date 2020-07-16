@@ -1,0 +1,19 @@
+.inl{ display: inline-block;}
+.widcont {
+    width: max-content;
+}
+.widinp {
+    width: max-content;
+}
+.wid {
+    width: 3.5em;
+    margin-left: 0.5em;
+}
+.inpwid {
+    width: 3.5em;
+    text-align: center;;
+}
+.centwid {
+    width: fit-content;
+    margin: 0 auto;
+}
